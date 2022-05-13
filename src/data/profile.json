@@ -1,3 +1,139 @@
 {
-  "Name": "Benjamin Eidum"
-}
+  "Name": "Benjamin Eidum",
+  "Position": "Closing Team Lead",
+  "Description": "Full Stack Web Developer",
+  "Address": "Atlanta, GA",
+  "Company": "Target",
+  "School": "Michigan State",
+  "SocialMedias": [
+    "https://github.com/Benjamineidum",
+    "https://www.linkedin.com/in/benjamin-eidum-a8ba97121/"
+  ],
+  "experiences": [
+    {
+      "companyName": "Target",
+      "url": "https://www.target.com/",
+      "roles": [
+        {
+          "title": "Closing Team Lead",
+          "description": "A branch of the Store Director that continues to take care of the guests until the store closes",
+          "startDate": "2019-10-2",
+          "currentJob": true,
+          "location": "Atlanta, GA"
+        }
+      ]
+    },
+    {
+      "companyName": "Simply Crepes",
+      "url": "https://www.simplycrepes.com/",
+      "roles": [
+        {
+          "title": "Front of Store Manager",
+          "description": "Ensured timely communication, accuracy, and execution of customer renewals",
+          "startDate": "2013-09",
+          "endDate": "2019-06",
+          "location": "Raleigh, NC"
+        }
+      ]
+    },
+    {
+      "companyName": "Homewood Nursery and Garden Center",
+      "url": "https://homewoodnursery.com/",
+      "roles": [
+        {
+          "title": "Logistics Manager",
+          "description": "Scheduling and executing incoming and outgoing delieveries",
+          "startDate": "2010-03",
+          "endDate": "2017-06",
+          "location": "Raleigh, NC"
+        }
+      ]
+    }
+  ],
+  "Skills": [
+    {
+      "Area": "Web-Based Application Development",
+      "SkillSet": [
+        {
+          "Name": "JavaScript (ES5, ES6)",
+          "Hot": true
+        },
+        {
+          "Name": "HTML5",
+          "Hot": true
+        },
+        {
+          "Name": "CSS (SCSS/SASS)",
+          "Hot": true
+        },
+        {
+          "Name": "React",
+          "Hot": true
+        },
+        {
+          "Name": "JQuery",
+          "Hot": true
+        },
+        {
+          "Name": "NPM",
+          "Hot": true
+        },
+        {
+          "Name": "WebPack",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Databases",
+      "SkillSet": [
+        {
+          "Name": "MongoDB",
+          "Hot": true
+        },
+        {
+          "Name": "MySQL",
+          "Hot": true
+        },
+        {
+          "Name": "Sequelize",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Software Development Tools and Concepts",
+      "SkillSet": [
+        {
+          "Name": "Agile",
+          "Hot": true
+        },
+        {
+          "Name": "MERN",
+          "Hot": true
+        },
+        {
+          "Name": "Model View Controller (MVC)",
+          "Hot": true
+        },
+        {
+          "Name": "Progressive Web Apps (PWA)",
+          "Hot": true
+        }
+      ]
+    },
+    
+    {
+      "Area": "Platforms",
+      "SkillSet": [
+        {
+          "Name": "Windows",
+          "Hot": true
+        },
+        {
+          "Name": "Mac OS",
+          "Hot": true
+        }
+      ]
+    }
+  ],
